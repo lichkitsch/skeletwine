@@ -6,7 +6,8 @@ body { font-family: 'Average', serif; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Alegreya SC', serif; }
 
 #ui-bar {
-  background-image: url('https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg');
+ /* background-image: url('https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg'); */
+  background-image: url('https://images.pexels.com/photos/773953/pexels-photo-773953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
   background-size: cover;
 }
 
