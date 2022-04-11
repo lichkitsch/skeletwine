@@ -6,16 +6,13 @@
     "start": "Start"
 }
 
-
 ::StoryTitle
 SkeleTwine Test
-
 
 :: Start
 This is the first passage in a Twine game!
 
 [[This is a link|Next Passage]]
-
 
 :: Next Passage
 This is passage number two!
