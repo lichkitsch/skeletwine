@@ -1,9 +1,9 @@
 :: Stylesheet [stylesheet]
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500&family=Average&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Work+Sans&display=swap');
 
-body { font-family: 'Average', serif; }
+body { font-family: 'Work Sans', serif; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Alegreya SC', serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Poiret One', serif; }
 
 #ui-bar {
  /* background-image: url('https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg'); */
