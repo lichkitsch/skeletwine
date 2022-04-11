@@ -4,3 +4,7 @@
 body { font-family: 'Average', serif; }
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Alegreya SC', serif; }
+
+#ui-bar {
+  background-image: url('https://github.com/lichkitsch/rove-engine-demo/blob/main/src/assets/menu_bg.jpg?raw=true');
+}
