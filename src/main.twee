@@ -1,0 +1,30 @@
+::StoryData
+{
+    "ifid": "0DEEAF35-C402-4832-A38D-5D47BB823C4C",
+    "format": "SugarCube",
+    "format-version": "2.36.1",
+    "start": "Start"
+}
+
+::StoryTitle
+Modern Twee Test
+
+:: Start
+This is the first passage in a Twine game!
+I sure hope this works… It did!
+
+Added a stylesheet, let's try again.
+
+[[This is a link|Next Passage]]
+
+
+:: Next Passage
+The player just clicked a link to get here!
+Now let’s see how it handles an update from mobile…
+Yes, yes… excellent.
+
+[[Oh look, another link.|A Third Passage]]
+
+
+:: A Third Passage
+Coming back to this, I'm not sure how it's going to work as a game but I'm excited to learn.
