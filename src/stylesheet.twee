@@ -1,9 +1,9 @@
 :: Stylesheet [stylesheet]
-@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Nunito+Sans&display=swap');
 
-body { font-family: 'Work Sans', sans-serif; }
+body { font-family: 'Nunito Sans', sans-serif; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Poiret One', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Arima Madurai', sans-serif; }
 
 #ui-bar {
  /* background-image: url('https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg'); */
